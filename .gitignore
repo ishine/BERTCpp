@@ -1,1 +1,5 @@
 build/*
+TODO.md
+model/*
+src/__pycache__/*
+.vscode/*
